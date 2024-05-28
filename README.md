@@ -9,8 +9,7 @@ I have spent multiple years studying coding and the unfathomable amount of work 
 - This GitHub repository is used to showcase myself and highlight some of the projects that I have worked on over the years. 
 
 - 📫 You can reach me through my e-mail: sjvaleo@iu.edu
-  Phone Number: 630-291-8268
-  LinkedIn: www.linkedin.com/in/salvatore-valeo-3a57b62b0
-
+Phone Number: 630-291-8268
+LinkedIn: www.linkedin.com/in/salvatore-valeo-3a57b62b0
 
 
